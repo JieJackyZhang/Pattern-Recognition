@@ -3,9 +3,9 @@ Star-Cubing Algorithm: Ice Cube Computation
 *********************************
 Example in the textbook
 *********************************
-Please enter the INPUT file name: in/data_textbook.txt
+Please enter the INPUT file name: data_textbook.txt
 Please enter the MINIMUM SUPPORT: 2
-Please enter the OUTPUT file name: out/out.txt
+Please enter the OUTPUT file name: out.txt
 
 Read data >>>	Complete!
 Compress data >>>	Complete!
