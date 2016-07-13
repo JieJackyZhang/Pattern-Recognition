@@ -1,0 +1,3 @@
+youth,medium,no,fair,no
+senior,high,yes,excellent,no
+middle_aged,low,no,fair,yes
